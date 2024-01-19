@@ -16,3 +16,5 @@ cd vcpkg
 ./vcpkg install colmap[cuda,tests]:x64-windows
 ```
 
+## Implement with Colab
+https://gist.github.com/kwea123/f0e8f38ff2aa94495dbfe7ae9219f75c
